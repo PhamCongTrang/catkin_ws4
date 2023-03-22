@@ -2,4 +2,4 @@
 source_root_dir = '/home/trang/catkin_ws4/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/trang/catkin_ws/devel;/opt/ros/noetic'.split(';') if '/home/trang/catkin_ws/devel;/opt/ros/noetic' != '' else []
+underlay_workspaces = '/home/trang/catkin_ws4/devel;/home/trang/catkin_ws/devel;/opt/ros/noetic'.split(';') if '/home/trang/catkin_ws4/devel;/home/trang/catkin_ws/devel;/opt/ros/noetic' != '' else []

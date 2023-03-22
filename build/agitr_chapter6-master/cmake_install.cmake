@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/trang/catkin_ws4/build/agitr_chapter6-master/catkin_generated/installspace/agitr_chapter6.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/trang/catkin_ws4/build/agitr_chapter6-master/catkin_generated/installspace/agitr_chapter6-master.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/agitr_chapter6/cmake" TYPE FILE FILES
-    "/home/trang/catkin_ws4/build/agitr_chapter6-master/catkin_generated/installspace/agitr_chapter6Config.cmake"
-    "/home/trang/catkin_ws4/build/agitr_chapter6-master/catkin_generated/installspace/agitr_chapter6Config-version.cmake"
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/agitr_chapter6-master/cmake" TYPE FILE FILES
+    "/home/trang/catkin_ws4/build/agitr_chapter6-master/catkin_generated/installspace/agitr_chapter6-masterConfig.cmake"
+    "/home/trang/catkin_ws4/build/agitr_chapter6-master/catkin_generated/installspace/agitr_chapter6-masterConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/agitr_chapter6" TYPE FILE FILES "/home/trang/catkin_ws4/src/agitr_chapter6-master/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/agitr_chapter6-master" TYPE FILE FILES "/home/trang/catkin_ws4/src/agitr_chapter6-master/package.xml")
 endif()
 

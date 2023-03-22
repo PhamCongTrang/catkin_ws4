@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 2.8.3)
 
 # The name of this package.
-project(agitr_chapter6)
+project(agitr_chapter6-master)
 
 # Find the catkin build system, and any other packages on which we depend.
 find_package(catkin REQUIRED COMPONENTS roscpp geometry_msgs turtlesim)

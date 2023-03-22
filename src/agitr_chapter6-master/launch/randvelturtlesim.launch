@@ -6,7 +6,7 @@
    respawn="true"
  />
  <node
-   pkg="agitr_chpater3"
+   pkg="agitr_chapter3"
    type="pubvel"
    name="publish_velocity"
    required="true"

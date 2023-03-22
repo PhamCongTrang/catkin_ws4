@@ -1,2 +1,2 @@
-agitr_chapter3:agitr_chapter6-master:chapter6
+agitr_chapter3:agitr_chapter6-master
 -DCATKIN_DEVEL_PREFIX=/home/trang/catkin_ws4/devel -DCMAKE_INSTALL_PREFIX=/home/trang/catkin_ws4/install -G Unix Makefiles

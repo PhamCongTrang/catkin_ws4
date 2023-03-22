@@ -35,14 +35,6 @@
 /home/trang/catkin_ws4/build/gtest/googletest/CMakeFiles/test.dir
 /home/trang/catkin_ws4/build/gtest/googletest/CMakeFiles/gtest_main.dir
 /home/trang/catkin_ws4/build/gtest/googletest/CMakeFiles/gtest.dir
-/home/trang/catkin_ws4/build/chapter6/CMakeFiles/install/strip.dir
-/home/trang/catkin_ws4/build/chapter6/CMakeFiles/install/local.dir
-/home/trang/catkin_ws4/build/chapter6/CMakeFiles/install.dir
-/home/trang/catkin_ws4/build/chapter6/CMakeFiles/list_install_components.dir
-/home/trang/catkin_ws4/build/chapter6/CMakeFiles/rebuild_cache.dir
-/home/trang/catkin_ws4/build/chapter6/CMakeFiles/edit_cache.dir
-/home/trang/catkin_ws4/build/chapter6/CMakeFiles/test.dir
-/home/trang/catkin_ws4/build/chapter6/CMakeFiles/_catkin_empty_exported_target.dir
 /home/trang/catkin_ws4/build/agitr_chapter3/CMakeFiles/install/strip.dir
 /home/trang/catkin_ws4/build/agitr_chapter3/CMakeFiles/list_install_components.dir
 /home/trang/catkin_ws4/build/agitr_chapter3/CMakeFiles/edit_cache.dir

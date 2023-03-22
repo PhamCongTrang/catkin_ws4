@@ -131,7 +131,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/trang/catkin_ws4/build/gtest/cmake_install.cmake")
-  include("/home/trang/catkin_ws4/build/chapter6/cmake_install.cmake")
   include("/home/trang/catkin_ws4/build/agitr_chapter3/cmake_install.cmake")
   include("/home/trang/catkin_ws4/build/agitr_chapter6-master/cmake_install.cmake")
 
