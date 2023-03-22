@@ -1,0 +1,8 @@
+prefix=/home/trang/catkin_ws4/install
+
+Name: agitr_chapter6
+Description: Description of agitr_chapter6
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
