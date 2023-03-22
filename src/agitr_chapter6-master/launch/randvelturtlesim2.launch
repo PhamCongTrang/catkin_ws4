@@ -1,6 +1,6 @@
 <launch>
   <include
-    file="$(find agitr_chapter6-master)/launch/teleopturtlesim.launch"
+    file="$(find agitr_chapter6-master)/launch/randvelturtlesim.launch"
   />
   <node
     pkg="agitr_chapter3"
